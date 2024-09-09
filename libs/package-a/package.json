@@ -1,0 +1,11 @@
+{
+  "name": "@m-thalmann/package-a",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "@m-thalmann/package-b": "^0.0.0",
+    "@m-thalmann/package-c": "^0.0.0"
+  }
+}
