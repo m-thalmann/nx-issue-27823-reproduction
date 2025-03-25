@@ -6,8 +6,14 @@
   "private": true,
   "dependencies": {},
   "devDependencies": {
-    "@nx/js": "19.6.5",
-    "@nx/workspace": "19.6.5",
-    "nx": "19.6.5"
+    "@nx/js": "0.0.0-pr-30418-e91f47d",
+    "@nx/workspace": "0.0.0-pr-30418-e91f47d",
+    "nx": "0.0.0-pr-30418-e91f47d",
+    "@nx/devkit": "0.0.0-pr-30418-e91f47d",
+    "@nx/esbuild": "0.0.0-pr-30418-e91f47d",
+    "@nx/eslint": "0.0.0-pr-30418-e91f47d",
+    "@nx/eslint-plugin": "0.0.0-pr-30418-e91f47d",
+    "@nx/jest": "0.0.0-pr-30418-e91f47d",
+    "@nx/plugin": "0.0.0-pr-30418-e91f47d"
   }
 }
